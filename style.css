@@ -1,0 +1,28 @@
+table {
+    text-align: center;
+    width: 60%;
+    height: 60px;
+}
+th {
+    height: 50px;
+}
+
+tr {
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+
+
+td:nth-child(1) {
+    background-color: rgb(210, 210, 210);
+    color: black;
+}
+td:nth-child(2) {
+    background-color: yellow;
+    color: black;
+}
+
+
+
